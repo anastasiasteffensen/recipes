@@ -7,4 +7,5 @@
 * Tomato
 * Pepper
 ## Instructions
-* peel the avocados
+* peel one avocado and put the avocado into a bowl.
+
