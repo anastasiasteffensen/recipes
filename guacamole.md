@@ -7,4 +7,4 @@
 * Tomato
 * Pepper
 ## Instructions
-An ill-considered change
+* peel the avocados
